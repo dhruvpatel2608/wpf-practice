@@ -7,7 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <DockPanel>
-        <Menu></Menu>
+        <Menu Height="20" DockPanel.Dock="Top">
+            
+        </Menu>
+        <TextBlock>
+            
+        </TextBlock>
+        
         
     </DockPanel>
 </Window>
